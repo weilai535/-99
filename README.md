@@ -14,12 +14,12 @@
 <P><黄杰斌>
 
 
-</div>
-</head>
+
+
 
 <kwc style="background:red;display:block;">大家好，我是杰锅，一天吃饱就没事做</kwc>
 <body>
     <p  style="background:red;">以后在鹅塘见到我，叫我请你们吃粉哈！</p>
     
-</html>
+
 
